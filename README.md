@@ -1,48 +1,42 @@
 # Introduction
 
-This framework allows software engineering managers to have meaningful conversations with their direct reports around the expectations of each position and how to plan for the next level in their career ladder.
+This framework suites as a software engineer's guideline for his/her career in Boataround company. 
 
-Although the framework uses roles and levels that are somewhat standard in the US tech industry, every company is different. Please use the information provided as a baseline and feel free adjust it to your needs.
-
-The framework relies heavily in radar charts to show visually the different perspectives and expectations of a given position:
-
-![Template Chart](charts/template.png)
+It helps to set the goals and clarify the level of knowledge for the developer and managers and set the right expectations for the given position.
 
 # Career Ladders
 
-The framework has 4 different ladders:
+The framework has 2 different ladders:
 
-* [**Developer**](Developer.md): role also known as programmer or software engineer, requires a deep level of technical expertise
-* [**Tech Lead**](TechLead.md): role also known as dev lead, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support
-* [**Technical Program Manager**](TechnicalProgramManager.md): role responsible for coordinating and driving to completion initiatives that expand multiple teams
-* [**Engineering Manager**](EngineeringManager.md): role also known as dev manager, is responsible for the consistent delivery, career growth and level of happiness of the team
+- [**Developer**](Developer.md): role also known as programmer or software engineer, requires a deep level of technical expertise
+- [**Tech Lead**](TechLead.md): role also known as dev lead, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support
 
-If you are confused about the difference between a [Tech Lead](TechLead.md) and an [Engineering Manager](EngineeringManager.md), please refer to the [Tech Lead vs Engineering Manager](TechLead-EngineeringManager.md) page for a detailed comparison.
-
-| Level | Seniority | [Developer](Developer.md) | [Tech Lead](TechLead.md) | [Technical Program Manager](TechnicalProgramManager.md) | [Engineering Manager](EngineeringManager.md) |
-| :---: | :---: | :---: | :---: | :---: |  :---: |
-| 1 | Junior | [D1](Developer.md#d1---developer-1) | | | |
-| 2 | Junior | [D2](Developer.md#d2---developer-2) | | | |
-| 3 | Junior | [D3](Developer.md#d3---developer-3) | | | |
-| 4 | Senior | [D4](Developer.md#d4---developer-4) | [TL4](TechLead.md#tl4---tech-lead-4) | [TPM4](TechnicalProgramManager.md#tpm4---technical-program-manager-4) | |
-| 5 | Senior | [D5](Developer.md#d5---developer-5) | [TL5](TechLead.md#tl5---tech-lead-5) | [TPM5](TechnicalProgramManager.md#tpm5---technical-program-manager-5) | [EM5](EngineeringManager.md#em5---engineering-manager-5) |
-| 6 | Senior | [D6](Developer.md#d6---developer-6) | [TL6](TechLead.md#tl6---tech-lead-6) | [TPM6](TechnicalProgramManager.md#tpm6---technical-program-manager-6) | [EM6](EngineeringManager.md#em6---engineering-manager-6) |
-| 7 | Senior | [D7](Developer.md#d7---developer-7) | [TL7](TechLead.md#tl7---tech-lead-7) | [TPM7](TechnicalProgramManager.md#tpm7---technical-program-manager-7) | [EM7](EngineeringManager.md#em7---engineering-manager-7) |
+| Level | Seniority | [Developer](Developer.md) | [Tech Lead](TechLead.md) |
+| :---: | :---: | :---: | :---: |
+| 1 | Junior | [Junior Developer](Developer.md#junior-developer) | |
+| 2 | Junior | [Junior Developer II](Developer.md#junior-developer-ii) | |
+| 3 | Medior | [Medior Developer](Developer.md#medior-developer) | |
+| 4 | Medior | [Medior Developer II](Developer.md#medior-developer-ii) | [Medior Tech Lead](TechLead.md#medior-tech-lead) |
+| 5 | Senior | [Senior Developer](Developer.md#senior-developer) | [Senior Tech Lead](TechLead.md#senior-tech-lead) |
+| 6 | Senior | [Senior Developer II](Developer.md#senior-developer-ii) | [Senior Tech Lead II](TechLead.md#senior-tech-lead-ii) |
 
 (click on position name for more details)
 
 # Axes
 
+![Template Chart](charts/template.png)
+
 The chart shown above has the following 5 axes:
-* **Technology**: knowledge of the tech stack and tools
-* **System**: level of ownership of the system(s)
-* **People**: relationship with the team(s)
-* **Process**: level of engagement with the development process
-* **Influence**: scope of influence of the position
 
-The **influence** axis can be seen as a *different dimension* since it is orthogonal and applies to all the other axes.
+- **Technology**: knowledge of the tech stack and tools
+- **System**: level of ownership of the system(s)
+- **People**: relationship with the team(s)
+- **Process**: level of engagement with the development process
+- **Influence**: scope of influence of the position
 
-Each axis has 5 different levels of performance. It is important to highlight that every level includes the previous one(s). For example, someone that *evangelizes* technology, *specializes* and *adopts* it as well.
+The **influence** axis can be seen as a _different dimension_ since it is orthogonal and applies to all the other axes.
+
+Each axis has 5 different levels of performance. It is important to highlight that every level includes the previous one(s). For example, someone that _evangelizes_ technology, _specializes_ and _adopts_ it as well.
 
 Keep reading to better understand each level.
 
@@ -60,8 +54,8 @@ Keep reading to better understand each level.
 
 1. **Enhances**: successfully pushes new features and bug fixes to improve and extend the system
 2. **Designs**: designs and implements medium to large size features while reducing the system's tech debt
-3. **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-4. **Evolves**: evolves the architecture to support future requirements and defines its SLAs
+3. **Owns**: owns the production operation and monitoring of the system
+4. **Evolves**: evolves the architecture to support future requirements
 5. **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
 
 ## People
