@@ -74,3 +74,5 @@ Role also known as programmer or software engineer, requires a deep level of tec
 # Other Pages
 
 - [**Introduction**](README.md)
+- [**Tech Lead**](TechLead.md)
+- [**FAQ**](FAQ.md)
