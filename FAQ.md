@@ -15,3 +15,9 @@ Different teams collect evidence in different ways. A recommended approach is to
 - 1:1 conversations
 - Feedback from peers and other teams
 - Self-evaluation
+
+# Other Pages
+
+- [**Introduction**](README.md)
+- [**Tech Lead**](TechLead.md)
+- [**Developer**](Developer.md)

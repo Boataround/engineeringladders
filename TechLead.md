@@ -42,3 +42,4 @@ Role also known as dev lead, is the owner of the system and requires a unique ba
 
 - [**Introduction**](README.md)
 - [**Developer**](Developer.md)
+- [**FAQ**](FAQ.md)
